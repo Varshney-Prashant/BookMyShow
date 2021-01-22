@@ -1,0 +1,86 @@
+19-01-2021 19:35:20	This log contains information about the import schema operation into project 'BookMyShowDb' on computer 'LAPTOP-KDRM4ASL' by user 'Prashant Varshney'.
+19-01-2021 19:35:20	Import of database schema has started.
+19-01-2021 19:35:36	Gathering database credentials
+19-01-2021 19:35:36	Gathering database options
+19-01-2021 19:35:36	Gathering generic database scoped configuration option
+19-01-2021 19:35:36	Gathering users
+19-01-2021 19:35:36	Gathering roles
+19-01-2021 19:35:36	Gathering application roles
+19-01-2021 19:35:36	Gathering role memberships
+19-01-2021 19:35:36	Gathering filegroups
+19-01-2021 19:35:36	Gathering full-text catalogs
+19-01-2021 19:35:36	Gathering assemblies
+19-01-2021 19:35:36	Gathering certificates
+19-01-2021 19:35:36	Gathering asymmetric keys
+19-01-2021 19:35:36	Gathering symmetric keys
+19-01-2021 19:35:36	Gathering encrypted symmetric keys
+19-01-2021 19:35:36	Gathering schemas
+19-01-2021 19:35:36	Gathering XML schema collections
+19-01-2021 19:35:36	Gathering user-defined data types
+19-01-2021 19:35:36	Gathering user-defined types
+19-01-2021 19:35:36	Gathering table types
+19-01-2021 19:35:36	Gathering unique keys for table types
+19-01-2021 19:35:36	Gathering primary keys for table types
+19-01-2021 19:35:36	Gathering indexes for table types
+19-01-2021 19:36:40	Gathering check constraints for table types
+19-01-2021 19:36:40	Gathering default constraints for table types
+19-01-2021 19:36:40	Gathering partition functions
+19-01-2021 19:36:40	Gathering partition schemes
+19-01-2021 19:36:42	Gathering functions
+19-01-2021 19:36:43	Gathering encrypted functions
+19-01-2021 19:36:44	Gathering aggregates
+19-01-2021 19:36:46	Gathering procedures
+19-01-2021 19:36:47	Gathering encrypted procedures
+19-01-2021 19:36:48	Gathering tables
+19-01-2021 19:36:49	Gathering primary keys
+19-01-2021 19:36:49	Gathering unique constraints
+19-01-2021 19:36:49	Gathering foreign keys
+19-01-2021 19:36:49	Gathering default constraints
+19-01-2021 19:36:49	Gathering check constraints
+19-01-2021 19:36:51	Gathering views
+19-01-2021 19:36:51	Gathering encrypted views
+19-01-2021 19:36:51	Gathering indexes
+19-01-2021 19:36:51	Gathering statistics
+19-01-2021 19:36:51	Gathering full-text index stoplists
+19-01-2021 19:36:51	Gathering search property lists
+19-01-2021 19:36:51	Gathering search properties
+19-01-2021 19:36:51	Gathering full-text indexes
+19-01-2021 19:36:52	Gathering column store indexes
+19-01-2021 19:36:52	Gathering spatial indexes
+19-01-2021 19:36:52	Gathering XML indexes
+19-01-2021 19:36:52	Gathering Selective XML indexes
+19-01-2021 19:36:53	Gathering encrypted triggers
+19-01-2021 19:36:53	Gathering triggers
+19-01-2021 19:36:53	Gathering encrypted and clr ddl triggers
+19-01-2021 19:36:53	Gathering ddl triggers
+19-01-2021 19:36:53	Creating edge constraints
+19-01-2021 19:36:53	Gathering synonyms
+19-01-2021 19:36:54	Gathering defaults
+19-01-2021 19:36:54	Gathering data constraint uddt bindings
+19-01-2021 19:36:55	Gathering rules
+19-01-2021 19:36:55	Gathering data constraint uddt bindings
+19-01-2021 19:36:55	Gathering message types
+19-01-2021 19:36:55	Gathering queues
+19-01-2021 19:36:55	Gathering contracts
+19-01-2021 19:36:55	Gathering services
+19-01-2021 19:36:56	Gathering event notifications
+19-01-2021 19:36:56	Gathering remote service bindings
+19-01-2021 19:36:56	Gathering broker priorities
+19-01-2021 19:36:56	Gathering signatures
+19-01-2021 19:36:56	Gathering data compression options
+19-01-2021 19:36:56	Gathering sequence types
+19-01-2021 19:36:56	Gathering security policies
+19-01-2021 19:36:56	Gather column encryption keys
+19-01-2021 19:36:56	Gathering column master keys
+19-01-2021 19:36:56	Gathering external data sources
+19-01-2021 19:36:56	Gathering external file formats
+19-01-2021 19:36:57	Gathering external tables
+19-01-2021 19:36:57	Gathering extended properties
+19-01-2021 19:36:59	Gathering credentials
+19-01-2021 19:36:59	Gathering logins
+19-01-2021 19:36:59	Gathering server audits
+19-01-2021 19:36:59	Scanning project for duplicate elements
+19-01-2021 19:36:59	Finished duplicate element processing
+19-01-2021 19:37:01	Finished importing database.
+19-01-2021 19:37:01	A summary of the import was saved to the following location: C:\Users\Prashant Varshney\Desktop\BookMyShow\BookMyShowDb\Import Schema Logs\BookMyShowDb_20210119020520.log
+19-01-2021 19:37:01	Click Finish to continue...

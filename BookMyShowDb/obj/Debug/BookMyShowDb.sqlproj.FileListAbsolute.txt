@@ -1,0 +1,6 @@
+C:\Users\Prashant Varshney\Desktop\BookMyShow\BookMyShowDb\bin\Debug\BookMyShowDb.dacpac
+C:\Users\Prashant Varshney\Desktop\BookMyShow\BookMyShowDb\bin\Debug\BookMyShowDb.dll
+C:\Users\Prashant Varshney\Desktop\BookMyShow\BookMyShowDb\bin\Debug\BookMyShowDb.pdb
+C:\Users\Prashant Varshney\Desktop\BookMyShow\BookMyShowDb\obj\Debug\BookMyShowDb.sqlprojAssemblyReference.cache
+C:\Users\Prashant Varshney\Desktop\BookMyShow\BookMyShowDb\obj\Debug\BookMyShowDb.dll
+C:\Users\Prashant Varshney\Desktop\BookMyShow\BookMyShowDb\obj\Debug\BookMyShowDb.pdb
